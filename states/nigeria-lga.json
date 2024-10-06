@@ -1,5 +1,5 @@
 [
-  { lgaid: 1, stateid: 1, name: "Aba South" },
+  { "lgaid": 1, "stateid": 1, "name": "Aba South" },
   { lgaid: 2, stateid: 1, name: "Arochukwu" },
   { lgaid: 3, stateid: 1, name: "Bende" },
   { lgaid: 4, stateid: 1, name: "Ikwuano" },
